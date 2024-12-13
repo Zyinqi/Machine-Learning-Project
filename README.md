@@ -5,7 +5,7 @@
 ## Course Project
 
 ### Decision Tree， CNN & Performance Evaluation 决策树、卷积神经网络与模型表现评估
-<img align="left" width="240" height="190" src="https://raw.githubusercontent.com/Zyinqi/Image-Base/refs/heads/main/Decision%20Tree.png"> **DDA3020 A2**   
+<img align="left" width="240" height="190" src="https://raw.githubusercontent.com/Zyinqi/Image-Base/refs/heads/main/Decision%20Tree.png">   
 
 这项作业考察了机器学习课程前半学期所学内容，涵盖了**卷积神经网络（CNN）与多层感知器（MLP）**的数学理论与计算，**分类问题的各项指标**及其计算和实现，此外，还包括对**决策树、Bagging和随机森林**的理解与实践操作。具体文档和报告：
 
@@ -18,9 +18,9 @@
 
 ### K-Means, PCA & GMM 聚类、降维与广义矩估计（半参数估计）
 
-<img align="left" width="240" height="190" src="https://raw.githubusercontent.com/Zyinqi/Image-Base/refs/heads/main/PCA%20Visualization.png"> **DDA3020 A3** 
+<img align="left" width="240" height="190" src="https://raw.githubusercontent.com/Zyinqi/Image-Base/refs/heads/main/PCA%20Visualization.png"> 
 
-这项作业考察了机器学习课程后半学期所学内容，涵盖K-means聚类的原理、实际应用，PCA主成分分析的数学原理证明，实际计算，以及程序设计；同时，还考察了GMM半参数估计的实际代码运用，加深了我对该算法的理解。具体文档与报告：
+这项作业考察了机器学习课程后半学期所学内容，涵盖**K-means**聚类的原理、实际应用，PCA**主成分分析**的数学原理证明，实际计算，以及程序设计；同时，还考察了**GMM半参数**估计的实际代码运用，加深了我对该算法的理解。具体文档与报告：
 
 - [作业问题集 Question List](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/A3/Homework%20Description%203.pdf)
 - [输出报告 Report](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/A3/Solutions%20Report.pdf)
