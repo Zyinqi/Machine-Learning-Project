@@ -17,3 +17,12 @@
 <br />
 
 ### K-Means, PCA & GMM 聚类、降维与广义矩估计（半参数估计）
+
+<img align="left" width="240" height="190" src="https://raw.githubusercontent.com/Zyinqi/Image-Base/refs/heads/main/PCA%20Visualization.png"> **DDA3020 A3** 
+
+这项作业考察了机器学习课程后半学期所学内容，涵盖K-means聚类的原理、实际应用，PCA主成分分析的数学原理证明，实际计算，以及程序设计；同时，还考察了GMM半参数估计的实际代码运用，加深了我对该算法的理解。具体文档与报告：
+
+- [作业问题集 Question List](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/A3/Homework%20Description%203.pdf)
+- [输出报告 Report](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/A3/Solutions%20Report.pdf)
+- [降维代码实现 PCA Code](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/A3/Q1%20PCA.ipynb)
+- [广义矩估计代码实现 GMM Code](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/A3/Q2%20Kmeans%2C%20%20GMM%20and%20EM%20Algorithm%20.ipynb)
