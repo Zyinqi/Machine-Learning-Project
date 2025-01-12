@@ -26,3 +26,15 @@
 - [输出报告 Report](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/A3/Solutions%20Report.pdf)
 - [降维代码实现 PCA Code](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/A3/Q1%20PCA.ipynb)
 - [广义矩估计代码实现 GMM Code](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/A3/Q2%20Kmeans%2C%20%20GMM%20and%20EM%20Algorithm%20.ipynb)
+
+<br />
+
+### Mathematical Modelling for Global Population 数学建模：世界人口预测
+
+<img align="left" width="240" height="200" src="https://raw.githubusercontent.com/Zyinqi/Image-Base/refs/heads/main/Global%20Population%20Forecasting.png"> 
+
+基于对234个国家1970–2020年的人口数据进行分析，自行设计并构建预测模型，以预测各地区在2020–2050年的人口增长。考虑到不同国家的人口变化趋势存在差异，分别采用**逻辑回归**和**指数衰减模型**来预测人口增长国和衰退国；对于前两种模型不适用的国家，则采用**多项式回归**进行预测。最终模型RMSE = 6.69%,预测效果突出。
+
+- [问题描述 Problem Description](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/Mathematical%20Modelling/Final-Project-1.pdf)
+- [代码实现 Code](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/Mathematical%20Modelling/Mathematical%20Modelling%20Final%20Project%20Code.ipynb)
+- [报告产出 Report](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/Mathematical%20Modelling/Mathematical_Modelling_Final_Project.pdf)
