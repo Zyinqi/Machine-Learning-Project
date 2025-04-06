@@ -44,6 +44,6 @@
 <img align="left" width="240" height="200" src="https://raw.githubusercontent.com/Zyinqi/Image-Base/refs/heads/main/stochastic%20simulation.png"> 
 
 展示CUHKSZ核心课程「随机模拟」的多次作业完整汇报。核心知识点涵盖随机过程、多元随机数生成、AR算法、贝叶斯、蒙特卡洛模拟等。
-- [作业1 Assignment1]()
-- [作业2 Assignment2]()
-- [作业3 Assignment3]()
+- [作业1 Assignment1](https://github.com/Zyinqi/Machine-Learning-Project/tree/main/Stochastic%20Simulation/A1-DDA4002)
+- [作业2 Assignment2](https://github.com/Zyinqi/Machine-Learning-Project/tree/main/Stochastic%20Simulation/A2-DDA4002)
+- [作业3 Assignment3](https://github.com/Zyinqi/Machine-Learning-Project/tree/main/Stochastic%20Simulation/A3-DDA4002)
