@@ -38,3 +38,12 @@
 - [问题描述 Problem Description](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/Mathematical%20Modelling/Final-Project-1.pdf)
 - [代码实现 Code](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/Mathematical%20Modelling/Mathematical%20Modelling%20Final%20Project%20Code.ipynb)
 - [报告产出 Report](https://github.com/Zyinqi/Machine-Learning-Project/blob/main/Mathematical%20Modelling/Mathematical_Modelling_Final_Project.pdf)
+
+
+### Stochastic Simulation Course Project 随机模拟-课程作业
+<img align="left" width="240" height="200" src="https://raw.githubusercontent.com/Zyinqi/Image-Base/refs/heads/main/stochastic%20simulation.png"> 
+
+展示CUHKSZ核心课程「随机模拟」的多次作业完整汇报。核心知识点涵盖随机过程、多元随机数生成、AR算法、贝叶斯、蒙特卡洛模拟等。
+- [作业1 Assignment1]()
+- [作业2 Assignment2]()
+- [作业3 Assignment3]()
