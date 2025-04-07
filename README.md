@@ -43,7 +43,7 @@
 ### Stochastic Simulation Course Project 随机模拟-课程作业
 <img align="left" width="240" height="200" src="https://raw.githubusercontent.com/Zyinqi/Image-Base/refs/heads/main/stochastic%20simulation.png"> 
 
-展示CUHKSZ核心课程「随机模拟」的多次作业完整汇报。核心知识点涵盖随机过程、多元随机数生成、AR算法、贝叶斯、蒙特卡洛模拟等。
-- [作业1 Assignment1](https://github.com/Zyinqi/Machine-Learning-Project/tree/main/Stochastic%20Simulation/A1-DDA4002)
-- [作业2 Assignment2](https://github.com/Zyinqi/Machine-Learning-Project/tree/main/Stochastic%20Simulation/A2-DDA4002)
-- [作业3 Assignment3](https://github.com/Zyinqi/Machine-Learning-Project/tree/main/Stochastic%20Simulation/A3-DDA4002)
+展示CUHKSZ核心课程「随机模拟」的多次作业完整汇报。作业考察对核心知识点如随机过程、多元随机数生成、AR算法、蒙特卡洛模拟的数理证明与代码实现。
+- [HW1-随机变量 Random Variable](https://github.com/Zyinqi/Machine-Learning-Project/tree/main/Stochastic%20Simulation/A1-DDA4002)
+- [HW2-多元随机变量与随机过程生成 Multivariate RV & Stochastic Process Generation](https://github.com/Zyinqi/Machine-Learning-Project/tree/main/Stochastic%20Simulation/A2-DDA4002)
+- [HW3-贝叶斯输入&输出分析 Bayesian Input & Output Analysis](https://github.com/Zyinqi/Machine-Learning-Project/tree/main/Stochastic%20Simulation/A3-DDA4002)
